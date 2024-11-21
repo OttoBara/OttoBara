@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Luis Octavio Baratto
 
-🎓 Recientemente graduado en Análisis de Datos con certificaciones en **Excel Avanzado**, **Tableau** y **Power BI** de **CoderHouse**.  
+🎓 Recientemente graduado en Análisis de Datos con certificaciones en **Excel Avanzado**, **Tableau** y **Data Analytics** de **CoderHouse**.  
 📊 Apasionado por transformar datos en decisiones y construir visualizaciones interactivas y significativas.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🔍 Actualmente aprendiendo **Ciencia de Datos** y profundizando mis conocimientos en **Python** y **Machine Learning**.
+- 🔍 Actualmente aprendiendo **Ciencia de Datos** y adquiriendo conocimientos en **Python** y **Machine Learning**.
 - 🌱 Disfruto explorar y analizar datos para resolver problemas y encontrar insights clave.
 - 🎯 Mi objetivo es contribuir en proyectos desafiantes que generen impacto real utilizando datos.
 
