@@ -35,7 +35,7 @@
 📊 **Herramientas:** Python, SQL, Power BI  
 📌 Exploración de datos sobre la percepción y acceso a tratamiento de salud mental en distintos sectores.  
 
-### 🛒 [Análisis de Retail Online - Data Science](https://github.com/OttoBara/Online-Retail-Analysis)  
+### 🛒 [Análisis de Retail Online - Data Science](https://github.com/OttoBara/OnlineRetailAnalysis)  
 📊 **Herramientas:** Python (Pandas, Seaborn, Scikit-learn), Jupyter Notebook  
 📌 Aplicación de Machine Learning para segmentación de clientes y análisis de patrones de compra.  
 
