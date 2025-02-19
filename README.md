@@ -1,35 +1,48 @@
-# 👋 ¡Hola! Soy Luis Octavio Baratto
+# 👋 ¡Hola! Soy Luis Octavio Baratto  
 
-🎓 Recientemente graduado en Análisis de Datos con certificaciones en **Excel Avanzado**, **Tableau** y **Data Analytics** de **CoderHouse**.  
-📊 Apasionado por transformar datos en decisiones y construir visualizaciones interactivas y significativas.
+🎯 **Junior Data Analyst | Power BI & Python | Data Science Student**  
 
----
-
-## 🚀 Sobre mí
-
-- 🔍 Actualmente aprendiendo **Ciencia de Datos** y adquiriendo conocimientos en **Python** y **Machine Learning**.
-- 🌱 Disfruto explorar y analizar datos para resolver problemas y encontrar insights clave.
-- 🎯 Mi objetivo es contribuir en proyectos desafiantes que generen impacto real utilizando datos.
+📊 Apasionado por el análisis de datos, la visualización y la ciencia de datos. Me encanta transformar datos en información valiosa para la toma de decisiones estratégicas.  
 
 ---
 
-## 📂 Proyectos Destacados
+## 🚀 Sobre mí  
 
-### 🌍 [Análisis de Clima y Productividad Agrícola](https://github.com/OttoBara/Climate-Productivity-Analysis)
-**Herramientas:** SQL, Power BI, Excel  
-Analicé el impacto del cambio climático en la productividad agrícola a nivel global. Creé dashboards interactivos para explorar patrones climáticos y económicos.  
-
-### 🧠 [Análisis de Salud Mental y Bienestar Laboral](https://github.com/OttoBara/Mental-Health-Analysis)
-**Herramientas:** SQL, Power BI, Excel  
-Exploré los factores que influyen en la salud mental y su impacto en la productividad laboral. Diseñé dashboards interactivos para visualizar los resultados.
-
-### 🚗 [Análisis del Mercado Automotriz](https://github.com/OttoBara/Automotive-Market-Analysis)
-**Herramientas:** Tableau, Excel  
-Realicé un análisis del mercado automotriz, destacando patrones de precios y rendimiento. Los resultados se presentan en un dashboard interactivo en Tableau.  
+- 🎓 Estudiante avanzado de **Ciencias Políticas**, con formación en **Análisis de Datos** y especialización en **Power BI y Python**.  
+- 🔍 Actualmente profundizando en **Ciencia de Datos y Machine Learning**.  
+- 📈 Experiencia en análisis de datos en sectores como **salud mental, cambio climático y mercados**.  
+- 🤝 Interesado en proyectos de impacto social y análisis de datos aplicados a políticas públicas.  
 
 ---
 
-## 📬 Conecta conmigo
-- **LinkedIn:** www.linkedin.com/in/luis-octavio-baratto-5146531a2
-- **Correo:** barattooctavio@gmail.com
+## 🔧 Habilidades Técnicas  
 
+✔ **Lenguajes:** Python (Pandas, Matplotlib, Seaborn) | SQL  
+✔ **Herramientas de BI:** Power BI | Tableau  
+✔ **Análisis de Datos:** Limpieza y transformación de datos, análisis exploratorio  
+✔ **Estadística y Modelado:** Análisis descriptivo e inferencial  
+✔ **Automatización y Reportes:** Power BI & Excel  
+
+---
+
+## 📂 Proyectos Destacados  
+
+### 🌍 [Impacto del Cambio Climático en la Productividad Agrícola](https://github.com/OttoBara/Climate-Productivity-Analysis)  
+📊 **Herramientas:** Power BI, SQL, Excel  
+📌 Análisis de datos sobre el impacto del clima en la productividad agrícola, con dashboards interactivos en Power BI.  
+
+### 🧠 [Análisis de Salud Mental en el Trabajo](https://github.com/OttoBara/Mental-Health-Analysis)  
+📊 **Herramientas:** Python, SQL, Power BI  
+📌 Exploración de datos sobre la percepción y acceso a tratamiento de salud mental en distintos sectores.  
+
+### 🛒 [Análisis de Retail Online - Data Science](https://github.com/OttoBara/Online-Retail-Analysis)  
+📊 **Herramientas:** Python (Pandas, Seaborn, Scikit-learn), Jupyter Notebook  
+📌 Aplicación de Machine Learning para segmentación de clientes y análisis de patrones de compra.  
+
+---
+
+## 📬 Conecta conmigo  
+
+🔗 **LinkedIn:** [www.linkedin.com/in/luis-octavio-baratto-5146531a2](www.linkedin.com/in/luis-octavio-baratto-5146531a2)  
+📧 **Correo:** barattooctavio@gmail.com  
+📊 **Tableau Public:** [Mis Dashboards](https://public.tableau.com/app/profile/octavio.baratto/vizzes)  
